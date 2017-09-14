@@ -1,5 +1,9 @@
-![](https://cloud.githubusercontent.com/assets/110953/7877439/6a69d03e-0590-11e5-9fac-c614246606de.png)
-## Codelab: Building your first ES2015 app
+# Exploration 1: ES6 capabilities
 
-This repo contains the initial and final code for the [Building your first ES2015 app](http://www.code-labs.io/codelabs/chrome-es2015) codelab. (Not published yet! Working on it!)
+## Sources
+[Top JavaScript Frameworks and Topics to learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711 "Eric Elliot's 2017 guide")
+
+[How to learn ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620 "Eric Elliot's ES6 guide")
+
+[Build your first ES6 app](https://codelabs.developers.google.com/codelabs/chrome-es2015/index.html?index=..%2F..%2Findex#0 "A tutorial by google")
 
